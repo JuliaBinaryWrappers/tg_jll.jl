@@ -1,0 +1,94 @@
+[[tg]]
+arch = "aarch64"
+git-tree-sha1 = "b7527a449b74f27cba8d2d09e82bbfa6e2bd2fba"
+os = "macos"
+
+    [[tg.download]]
+    sha256 = "4ddbd4c43c7617ff669b9dd09d97e3723e4117d2b67ebaf54a632c52914cbe93"
+    url = "https://github.com/JuliaBinaryWrappers/tg_jll.jl/releases/download/tg-v0.7.2+0/tg.v0.7.2.aarch64-apple-darwin.tar.gz"
+[[tg]]
+arch = "aarch64"
+git-tree-sha1 = "23528ce82992779ee56cc89069b55ae894f6287f"
+libc = "glibc"
+os = "linux"
+
+    [[tg.download]]
+    sha256 = "1a7d6f5c4bf6d418fad9463fa0db7bdf6c6f833d9c924c28ce1ede9ea314c71e"
+    url = "https://github.com/JuliaBinaryWrappers/tg_jll.jl/releases/download/tg-v0.7.2+0/tg.v0.7.2.aarch64-linux-gnu.tar.gz"
+[[tg]]
+arch = "aarch64"
+git-tree-sha1 = "cb95b01cd695c50f51a703e2c2ed0b470dfbabb5"
+libc = "musl"
+os = "linux"
+
+    [[tg.download]]
+    sha256 = "a46bcc9081ef6ae3c034a9eef9eec847add98b7e100bb42aa3a0ad67a023b536"
+    url = "https://github.com/JuliaBinaryWrappers/tg_jll.jl/releases/download/tg-v0.7.2+0/tg.v0.7.2.aarch64-linux-musl.tar.gz"
+[[tg]]
+arch = "aarch64"
+git-tree-sha1 = "d29eaccca855625fe45694c0d356ecd06613071b"
+os = "freebsd"
+
+    [[tg.download]]
+    sha256 = "ab06fd6ee9f5418fa1a8723a337c7258e81814bb88578d58e6e0094582f9e61b"
+    url = "https://github.com/JuliaBinaryWrappers/tg_jll.jl/releases/download/tg-v0.7.2+0/tg.v0.7.2.aarch64-unknown-freebsd.tar.gz"
+[[tg]]
+arch = "powerpc64le"
+git-tree-sha1 = "959acd94e480630bdc2aed71ba7a9f1548dc3628"
+libc = "glibc"
+os = "linux"
+
+    [[tg.download]]
+    sha256 = "3029ce2a14448caee2a680118eb5624b547dd5f72cffbd4321bb5083b4fffe86"
+    url = "https://github.com/JuliaBinaryWrappers/tg_jll.jl/releases/download/tg-v0.7.2+0/tg.v0.7.2.powerpc64le-linux-gnu.tar.gz"
+[[tg]]
+arch = "riscv64"
+git-tree-sha1 = "17ff689a6820e259ae5b8477a0bea577e88d7dd1"
+libc = "glibc"
+os = "linux"
+
+    [[tg.download]]
+    sha256 = "a711bd6bf9c13512f05f08fa30b5c3323850b5e53e160a48646aca3a47464018"
+    url = "https://github.com/JuliaBinaryWrappers/tg_jll.jl/releases/download/tg-v0.7.2+0/tg.v0.7.2.riscv64-linux-gnu.tar.gz"
+[[tg]]
+arch = "x86_64"
+git-tree-sha1 = "82c9237b2d69c9e90b064df3abcf01c4a3318add"
+os = "macos"
+
+    [[tg.download]]
+    sha256 = "2e83324c0569d2cb7e05936e39a9c61c3c67213fc9f4f97516d9362adf406847"
+    url = "https://github.com/JuliaBinaryWrappers/tg_jll.jl/releases/download/tg-v0.7.2+0/tg.v0.7.2.x86_64-apple-darwin.tar.gz"
+[[tg]]
+arch = "x86_64"
+git-tree-sha1 = "df028a5aa4dd4a307888e0d252a7a68c46543913"
+libc = "glibc"
+os = "linux"
+
+    [[tg.download]]
+    sha256 = "74106e51d1a82f73a23998bd8a623de2c64affe48fea62df23397f1cc082ce2b"
+    url = "https://github.com/JuliaBinaryWrappers/tg_jll.jl/releases/download/tg-v0.7.2+0/tg.v0.7.2.x86_64-linux-gnu.tar.gz"
+[[tg]]
+arch = "x86_64"
+git-tree-sha1 = "c6daf08b589ed037946154cca55ad1bb85d2d7c9"
+libc = "musl"
+os = "linux"
+
+    [[tg.download]]
+    sha256 = "580c505ce7bbdc4e82fb71ea91eb101fe40ccc4aa44a47493eb42fd00aac5aea"
+    url = "https://github.com/JuliaBinaryWrappers/tg_jll.jl/releases/download/tg-v0.7.2+0/tg.v0.7.2.x86_64-linux-musl.tar.gz"
+[[tg]]
+arch = "x86_64"
+git-tree-sha1 = "de620a769825f8d159e3bb7e2635d44d70c7baae"
+os = "freebsd"
+
+    [[tg.download]]
+    sha256 = "4248cb54ec9d1be79bfc282eb6871372093dfb1f439c58796f34f514b28375d4"
+    url = "https://github.com/JuliaBinaryWrappers/tg_jll.jl/releases/download/tg-v0.7.2+0/tg.v0.7.2.x86_64-unknown-freebsd.tar.gz"
+[[tg]]
+arch = "x86_64"
+git-tree-sha1 = "4010db35a995c9b440b61e3128aebdb36b10a8c0"
+os = "windows"
+
+    [[tg.download]]
+    sha256 = "46d5c4b31769dc60b0c266eb394a720fade9dc9052877c2f84caba6de93003ef"
+    url = "https://github.com/JuliaBinaryWrappers/tg_jll.jl/releases/download/tg-v0.7.2+0/tg.v0.7.2.x86_64-w64-mingw32.tar.gz"
